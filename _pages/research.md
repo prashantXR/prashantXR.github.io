@@ -4,32 +4,32 @@ title: "Research"
 permalink: /research/
 ---
 
-## Spatial Visual Guides for 3D Assembly in VR
+My research explores how multimodal interaction can support spatial thinking in immersive environments. I design and evaluate interfaces that use hand, voice, and gaze input to help users plan, visualize, and reason about 3D tasks in Virtual Reality.
 
-- Designed action-triggered visual guides to support spatial reasoning in VR  
-- Developed multimodal interaction techniques (hand vs voice + hand)  
-- Reduced user errors and improved planning behavior in 3D assembly tasks  
+## Spatial Hand Actions (CHI 2025)
 
----
+This project investigates how users naturally use hand actions to express spatial thinking during 3D assembly tasks in VR.
 
-## Spatial Hand Actions for 3D Tasks (CHI 2025)
+- Identified hand actions associated with spatial reasoning
+- Studied gesture patterns in immersive assembly tasks
+- Informed the design of multimodal interaction techniques
 
-- Investigated how users use hand gestures to express spatial thinking  
-- Identified gesture patterns for 3D assembly tasks  
-- Contributed design insights for naturalistic interaction in VR  
+## Spatial Visual Guides
 
----
+This project explores how lightweight visual guides can support orientation, visualization, and relational reasoning during immersive 3D assembly.
 
-## Gaze-Supported Planning for Tangram Assembly (Ongoing)
+- Designed minimal visual guides triggered through interaction
+- Compared guidance strategies in VR task performance
+- Focused on supporting planning, not just efficiency
 
-- Exploring gaze as a mechanism for spatial planning and wayfinding  
-- Designing novel gaze-driven visual guides  
-- Studying attention and decision-making in immersive environments  
+## Gaze-Supported Planning for Tangram Assembly
 
----
+This ongoing work investigates gaze as a mechanism for planning and wayfinding in immersive spatial tasks.
 
-## VR Authentication using Eye-Gaze
+- Explores gaze-based support for pre-action planning
+- Extends multimodal interaction beyond hand and voice
+- Targets spatial decision-making in assembly-like problems
 
-- Developed voxel-based authentication system using gaze interaction  
-- Improved privacy by preventing external observation  
-- Evaluated usability and memorability in VR environments  
+## Additional Research Experience
+
+I have also contributed to research on VR authentication using eye-gaze and immersive interaction systems, including publications in IEEE VRW and ACM SUI.
