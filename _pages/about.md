@@ -4,17 +4,17 @@ title: ""
 author_profile: true
 ---
 
-Hi, I’m **Prashant Rawat**.
+Hi, I’m Prashant Rawat.
 
-I am a **PhD Candidate in Computer Science at Dalhousie University** working at the intersection of **Human-Computer Interaction, Virtual Reality, and spatial cognition**.
+I am a PhD Candidate in Computer Science at Dalhousie University working at the intersection of Human-Computer Interaction, Virtual Reality, and spatial cognition.
 
-My research investigates how **multimodal interaction**—especially **hand, voice, and gaze input**—can support **spatial thinking** in 3D assembly and design tasks.
+My research investigates how multimodal interaction—especially hand, voice, and gaze input—can support spatial thinking in 3D assembly and design tasks.
 
-I study how people express and use spatial reasoning in immersive environments, from **naturalistic hand actions** to **lightweight visual guidance** and **gaze-supported planning**. My long-term goal is to design interactive systems that align with how users think, not just how they input commands.
+I study how people express and use spatial reasoning in immersive environments, from naturalistic hand actions to lightweight visual guidance and gaze-supported planning. My long-term goal is to design interactive systems that align with how users think, not just how they input commands.
 
 📍 Halifax, Canada  
-🎓 **Expected Graduation: August 2026**  
-📌 **Seeking postdoctoral and academic research positions in HCI, XR, and immersive interactive systems**
+🎓 Expected Graduation: August 2026  
+📌 Seeking postdoctoral and academic research positions in HCI, XR, and immersive interactive systems
 
 ## Research Focus
 
