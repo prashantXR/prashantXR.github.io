@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Publications"
+title: ""
 permalink: /publications/
 ---
 
@@ -11,7 +11,7 @@ permalink: /publications/
 **Rawat, Prashant** and Barrera Machuca, Mayra Donaji.  
 *Spatial Hand Actions: Exploring the Hand Actions used to Represent Spatial Thinking for 3D Assembling Tasks.*  
 Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI 2025).  
-[DOI](https://doi.org/10.1145/3706598.3713424)
+[DOI](https://doi.org/10.1145/3706598.3713424) | [Project](https://github.com/prashantXR/spatial-hand-actions-chi2025)
 
 Ranapurwala, Amaan, Zhang, Jialin, **Rawat, Prashant**, Wehbe, Rina, Batmaz, Anil, and Barrera Machuca, Mayra Donaji.  
 *A Virtual Reality OptoKinetic Drum.*  
