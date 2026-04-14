@@ -4,7 +4,6 @@ title: ""
 permalink: /publications/
 ---
 
-## Selected Publications
 
 ### 2025
 
