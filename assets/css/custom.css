@@ -1,24 +1,57 @@
+body,
+.page__content,
+.author__content,
+.sidebar,
+.archive,
+.page__footer {
+  font-family: Calibri, Carlito, "Segoe UI", Arial, sans-serif;
+}
+
 .page__content p,
 .page__content li {
-  font-size: 1.05rem;
-  line-height: 1.8;
-}
-
-.page__content h2,
-.page__content h3 {
-  font-weight: 700;
-  letter-spacing: -0.01em;
-}
-
-.author__bio {
-  font-size: 0.95rem;
+  font-size: 15px;
   line-height: 1.6;
 }
 
-.page__content {
-  max-width: 850px;
+.page__content h1 {
+  font-size: 30px;
+  font-weight: 700;
 }
 
-.featured-project {
-  margin-bottom: 2rem;
+.page__content h2 {
+  font-size: 22px;
+  font-weight: 700;
+  margin-top: 1.8rem;
+}
+
+.page__content h3 {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.author__name {
+  font-family: Calibri, Carlito, "Segoe UI", Arial, sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.author__bio,
+.author__urls li {
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.page__content {
+  max-width: 800px;
+}
+
+.page__footer {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid #e5e7eb;
+}
+
+.page__footer p {
+  font-size: 13px;
+  margin: 0;
 }
