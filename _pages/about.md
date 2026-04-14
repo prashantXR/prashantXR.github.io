@@ -1,16 +1,16 @@
 ---
 permalink: /
-title: ""
+title: "About"
 author_profile: true
 ---
 
 Hi, I’m **Prashant Rawat**.
 
-I am a **PhD Candidate in Computer Science at Dalhousie University** working in **Human-Computer Interaction (HCI)**.
+I am a **PhD Candidate in Computer Science at Dalhousie University** working at the intersection of **Human-Computer Interaction, Virtual Reality, and spatial cognition**.
 
-My research focuses on **multimodal interaction in Virtual Reality**, especially how **hand, voice, and gaze input** can support **spatial thinking in 3D design and assembly tasks**.
+My research investigates how **multimodal interaction**—especially **hand, voice, and gaze input**—can support **spatial thinking** in 3D assembly and design tasks.
 
-I design and evaluate immersive systems that help users better understand spatial relationships, plan actions, and reduce cognitive load in Virtual Reality.
+I study how people express and use spatial reasoning in immersive environments, from **naturalistic hand actions** to **lightweight visual guidance** and **gaze-supported planning**. My long-term goal is to design interactive systems that align with how users think, not just how they input commands.
 
 📍 Halifax, Canada  
 🎓 **Expected Graduation: August 2026**  
@@ -24,14 +24,22 @@ I design and evaluate immersive systems that help users better understand spatia
 - Hand, voice, and gaze interaction
 - Interactive systems for design and learning
 
-## Research Statement
+## Research Agenda
 
-My research aims to bridge spatial cognition and interaction design by developing multimodal interfaces that align with natural human actions.
-
-I focus on designing systems that not only improve task performance but also support planning, visualization, and relational reasoning in immersive environments.
+1. Understand how spatial thinking is expressed through action in VR  
+2. Design multimodal guidance that supports planning and reasoning  
+3. Build immersive systems for design, learning, and cognitive support
 
 ## Featured Work
 
-- **Spatial Hand Actions (CHI 2025)** — studying how hand actions represent spatial thinking in VR.
-- **Spatial Visual Guides** — multimodal visual guidance for spatial reasoning in immersive 3D assembly.
-- **Gaze-Supported Planning** — ongoing work on gaze as a mechanism for planning and wayfinding in immersive tasks.
+### Spatial Hand Actions (CHI 2025)
+Examines how users express spatial thinking through natural hand actions during immersive 3D assembly.  
+[Paper](https://doi.org/10.1145/3706598.3713424) | [Project](https://github.com/prashantXR/spatial-hand-actions-chi2025)
+
+### Spatial Visual Guides
+Explores how multimodal guidance can support orientation, visualization, and relational reasoning in immersive 3D assembly.  
+[Project](#)
+
+### Gaze-Supported Planning
+Ongoing work investigating gaze as a mechanism for planning and wayfinding in immersive spatial tasks.  
+[Project](#)
