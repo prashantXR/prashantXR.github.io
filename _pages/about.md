@@ -36,7 +36,7 @@ I study how people express and use spatial reasoning in immersive environments, 
 ### Spatial Hand Actions (CHI 2025)
 Examines how users express spatial thinking through natural hand actions during immersive 3D assembly.  
 [Paper](https://doi.org/10.1145/3706598.3713424) | [Project](https://github.com/prashantXR/spatial-hand-actions-chi2025)
-![Spatial Hand Actions](../images/projects/spatial-hand-actions.png)
+
 
 ### Spatial Visual Guides
 Explores how multimodal guidance can support orientation, visualization, and relational reasoning in immersive 3D assembly.  
