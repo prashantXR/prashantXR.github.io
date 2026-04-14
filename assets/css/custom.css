@@ -1,0 +1,24 @@
+.page__content p,
+.page__content li {
+  font-size: 1.05rem;
+  line-height: 1.8;
+}
+
+.page__content h2,
+.page__content h3 {
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+.author__bio {
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.page__content {
+  max-width: 850px;
+}
+
+.featured-project {
+  margin-bottom: 2rem;
+}
