@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Research"
+title: ""
 permalink: /research/
 ---
 
@@ -10,26 +10,38 @@ My research explores how multimodal interaction can support spatial thinking in 
 
 This project investigates how users naturally use hand actions to express spatial thinking during 3D assembly tasks in VR.
 
-- Identified hand actions associated with spatial reasoning
-- Studied gesture patterns in immersive assembly tasks
-- Informed the design of multimodal interaction techniques
+- **Problem:** Existing VR interfaces often capture input without revealing how users reason spatially.
+- **System:** An immersive study of natural hand actions during 3D assembly tasks.
+- **Contribution:** Identified action patterns that can inform the design of multimodal interfaces.
 
-## Spatial Visual Guides
+[Paper](https://doi.org/10.1145/3706598.3713424) | [Project](https://github.com/prashantXR/spatial-hand-actions-chi2025)
+
+---
+
+## Spatial Guides
 
 This project explores how lightweight visual guides can support orientation, visualization, and relational reasoning during immersive 3D assembly.
 
-- Designed minimal visual guides triggered through interaction
-- Compared guidance strategies in VR task performance
-- Focused on supporting planning, not just efficiency
+- **Problem:** Users often struggle with planning and alignment during spatial assembly in VR.
+- **System:** Minimal visual guides triggered through multimodal interaction.
+- **Contribution:** A guidance approach aimed at supporting planning and reasoning, not just faster completion.
 
-## Gaze-Supported Planning for Tangram Assembly
+[Project](#)
+
+---
+
+## Gaze-Supported Planning 
 
 This ongoing work investigates gaze as a mechanism for planning and wayfinding in immersive spatial tasks.
 
-- Explores gaze-based support for pre-action planning
-- Extends multimodal interaction beyond hand and voice
-- Targets spatial decision-making in assembly-like problems
+- **Problem:** Planning in immersive assembly tasks is often under-supported before action begins.
+- **System:** Gaze-based cues for pre-action planning and spatial decision-making.
+- **Contribution:** Extends multimodal interaction beyond hand and voice toward planning-aware interfaces.
+
+[Project](#)
+
+---
 
 ## Additional Research Experience
 
-I have also contributed to research on VR authentication using eye-gaze and immersive interaction systems, including publications in IEEE VRW and ACM SUI.
+I have also contributed to research on VR authentication using eye-gaze and immersive interaction systems, including work published in IEEE VRW and ACM SUI.
